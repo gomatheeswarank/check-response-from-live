@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/check-response-from-live.git/static/css/main.e6c13ad2.css",
+    "main.js": "/check-response-from-live.git/static/js/main.f61166b8.js",
+    "static/js/787.d5ad4b98.chunk.js": "/check-response-from-live.git/static/js/787.d5ad4b98.chunk.js",
+    "index.html": "/check-response-from-live.git/index.html",
+    "main.e6c13ad2.css.map": "/check-response-from-live.git/static/css/main.e6c13ad2.css.map",
+    "main.f61166b8.js.map": "/check-response-from-live.git/static/js/main.f61166b8.js.map",
+    "787.d5ad4b98.chunk.js.map": "/check-response-from-live.git/static/js/787.d5ad4b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f61166b8.js"
+  ]
+}
